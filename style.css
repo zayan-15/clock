@@ -1,0 +1,80 @@
+body {
+  background-color: lightgray;
+}
+.main {
+  width: 1500px;
+  height: 1500px;
+  border: 30px black solid;
+  border-radius: 1800px;
+  margin: 200px auto;
+  background-color: rgb(231, 155, 101);
+  position: relative;
+}
+.abs {
+  font-size: 200px;
+  position: absolute;
+}
+.twelve {
+  right: 650px;
+}
+.one {
+  right: 400px;
+  top: 100px;
+}
+.two {
+  right: 200px;
+  top: 350px;
+}
+.three {
+  right: 100px;
+  top: 650px;
+}
+.four {
+  right: 200px;
+  top: 950px;
+}
+.five {
+  right: 400px;
+  top: 1200px;
+}
+.six {
+  right: 680px;
+  top: 1250px;
+}
+.seven {
+  right: 950px;
+  top: 1200px;
+}
+.eight {
+  right: 1200px;
+  top: 950px;
+}
+.nine {
+  right: 1300px;
+  top: 650px;
+}
+.ten {
+  right: 1200px;
+  top: 350px;
+}
+.eleven {
+  right: 980px;
+  top: 100px;
+}
+.needle {
+  width: 25px;
+  height: 670px;
+  background-color: black;
+  position: absolute;
+  right: 750px;
+  top: 100px;
+}
+.dot{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    position: absolute;
+    border-radius: 100px;
+    top: 730px;
+    right: 740px;
+}
